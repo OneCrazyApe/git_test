@@ -1,1 +1,1 @@
-This is Matthew Burch's first git project!
+This is Matthew Burch's first git project
